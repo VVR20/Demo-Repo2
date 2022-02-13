@@ -1,3 +1,3 @@
-# Demo2
+# Movie Browsing App with Search Enabled
 
-Local To Web
+## To learn CSS and working with APIs 
